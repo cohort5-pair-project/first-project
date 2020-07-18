@@ -1,0 +1,171 @@
+body {
+background-image: url('https://i.pinimg.com/originals/67/00/1c/67001ce1dd84642520d7ca01744405e1.jpg');	
+background-position: center center;
+background-size: cover;
+background-attachment: fixed;
+}
+button {
+	position: relative;
+	top: -85px;
+	float: right;
+	font-size: 20px;
+	border: none;
+	outline: none;
+	color: #ffda79;
+	padding: 14px 16px;
+	background-color: inherit;
+	font-family: inherit;
+	margin: 0;
+	overflow: hidden;
+	background-color: #333;
+	font-family:Times New Roman;
+	box-shadow: 0px 8px 16px 0px;
+
+}
+
+button:hover {
+	background-color: red;
+}
+
+body {
+	color: #ffda79;
+}
+.button4{
+	border-radius: 8px;
+}
+h1{
+	font-size: 40px; 
+}
+
+ #img{
+ 	height: 400px;
+ 	position: relative;
+ 	top: 50px;
+ 	left: 30px;
+ 	border-radius: 120px;
+ }
+ #img2{
+ 	height: 400px;
+    position: relative;
+    top: 50px;
+    left: 56px;
+    border-radius: 66px
+ }
+ #img3{
+ 	height: 400px;
+ 	position: relative;
+ 	top: -350px;
+ 	right: -790px;
+ 	border-radius: 120px;
+ }
+ 
+ #img4{
+ 	height: 400px;
+ 	position: relative;
+ 	top: 50px;
+ 	left: 490px;
+ 	border-radius: 120px;
+ }
+ #img5{
+ 	height: 400px;
+    position: relative;
+    top: -350px;
+    left: 50px;
+    border-radius: 66px
+ }
+ #img6{
+ 	height: 400px;
+ 	position: relative;
+ 	top: -350px;
+ 	right: -510px;
+ 	border-radius: 120px;
+ }
+ #img7{
+ 	height: 400px;
+ 	position: relative;
+ 	top: 50px;
+ 	left: 510px;
+ 	border-radius: 120px;
+ }
+ #img8{
+ 	height: 400px;
+    position: relative;
+    top: -350px;
+    left: 110px;
+    border-radius: 66px
+ }
+
+ #img9{
+ 	height: 400px;
+ 	position: relative;
+ 	top: -350px;
+ 	right: -500px;
+ 	border-radius: 120px;
+ }
+
+ #img10{
+ 	height: 400px;
+ 	position: relative;
+ 	top: 50px;
+ 	left: 150px;
+ 	border-radius: 120px;
+ }
+ #img11{
+ 	height: 400px;
+    position: relative;
+    top: 50px;
+    left: 210px;
+    border-radius: 66px
+ }
+ #img12{
+ 	height: 400px;
+ 	position: relative;
+ 	top: -350px;
+ 	right: -890px;
+ 	border-radius: 120px;
+ }
+
+ #img13{
+ 	height: 400px;
+ 	position: relative;
+ 	top: 50px;
+ 	left: 130px;
+ 	border-radius: 120px;
+
+ }
+
+ #img14{
+ 	height: 400px;
+    position: relative;
+    top: -350px;
+    left: 550px;
+    border-radius: 66px
+ }
+
+ #img15{
+ 	height: 400px;
+ 	position: relative;
+ 	top: -750px;
+ 	right: -1000px;
+ 	border-radius: 120px;
+ }
+ .ImgPosition{
+ 	position: relative;
+ 	left: 810px;
+    bottom: 403px;
+ }
+ .Position img{
+    position: relative;  
+ }
+
+ #im1{
+	 height: 400px;
+
+ }
+ #im2{
+	 height: 400px;
+
+ }
+ #im3{
+	 height: 400px;
+ }

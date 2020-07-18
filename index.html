@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>PHOTOGRAPHY WEBSITE</title>
+  <link href="style.css" rel="stylesheet">
+  <script src="main.js" defer></script>
+    <script src="http://code.jquery.com/jquery-3.2.1.min.js"></script>
+</head>
+<body>
+	<audio id="song" src="Upbeat Background Music For Videos and Presentations.mp3" hidden="true" autoplay="true"> 
+	</audio>
+	<div class='Position' >
+	<h1>Photography Website By B-CH</h1>
+<button id="nature" id="l">Nature</button>
+<button id="cats" id="l">Cats</button>
+<button id="Coffee" id="l">Coffee</button>
+<button id="random" id="l">Random</button>
+<button id="fp" id="l">Famous Photographers</button>
+
+<img id="img" src="pic67.jpg">
+<img id="img2" src="pic63.jpg">
+<img id="img3" src="pic46.jpg">
+
+
+<img id="img4" src="pic58.jpg">
+<img id="img5" src="pic66.jpg">
+<img id="img6" src="pic68.jpg">
+
+<img id="img7" src="pic29.jpg">
+<img id="img8" src="pic30.jpg">
+<img id="img9" src="pic55.jpg">
+
+<img id="img10" src="pic10.jpg">
+<img id="img11" src="pic12.jpg">
+<img id="img12" src="pic14.jpg">
+
+
+
+<div id="img13">
+<img id="im1" src="pic70.jpg">
+<h2 id="t1"> Jimmy Nelson </h2>
+</div>
+
+<div id="img14">
+<img id="im2" src="pic71.jpg">
+<h2 id="t2">Lee Jeffries</h2>
+</div>
+
+<div id="img15">
+<img id="im3" src="pic72.jpg">
+<h2 id="t3">Joe Mcnally</h2> 
+</div>
+
+
+
+
+
+<div class="ImgPosition">
+
+
+</div>
+</div>
+<script type="text/javascript">
+var audio = document.querySelector('audio');
+if (audio) {
+  window.addEventListener('keydown', function (event) {
+    var key = event.which || event.keyCode;
+    if (key === 32) { 
+      event.preventDefault();
+      audio.paused ? audio.play() : audio.pause(); 
+    }
+  });
+}
+</script>
+</body>	
+</html>
